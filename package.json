@@ -19,6 +19,6 @@
   "homepage": "https://github.com/design2soft/socket-io-chat#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
